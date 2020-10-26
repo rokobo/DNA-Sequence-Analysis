@@ -1,5 +1,6 @@
 """
-Code for analysing pairwise sequence alignments for DNA, RNA and protein folds with the use of global and local alignments
+Code for analysing pairwise sequence alignments for DNA, RNA and protein folds 
+with the use of global and local alignments
 """
 import math
 import random
